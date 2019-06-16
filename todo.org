@@ -1,0 +1,4 @@
+* Find particle-example
+  This repo
+* Find usable convex hull algo
+  https://www.npmjs.com/package/quickhull3d
